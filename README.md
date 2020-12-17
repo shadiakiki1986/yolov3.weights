@@ -1,6 +1,6 @@
 # yolov3.weights
 
-A repo just to host the yolov3.weights file from https://pjreddie.com/darknet/yolo/ in the repo releases.
+A repo just to host the yolov3.weights file from https://pjreddie.com/darknet/yolo/ in the repo releases for the sake of faster download time
 
 ## Usage
 
